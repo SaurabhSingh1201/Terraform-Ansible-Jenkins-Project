@@ -1,0 +1,2 @@
+10.0.1.211 ansible_ssh_private_key_file="/home/ubuntu/assignment-c7key.pem" ansible_user_ssh=ubuntu
+10.0.2.129 ansible_ssh_private_key_file="/home/ubuntu/assignment-c7key.pem" ansible_user_ssh=ubuntu
